@@ -12,11 +12,12 @@ Attributes include NOC (National Olympic Committee), region (country/place name)
 # Data Dictionary
 | Files | Description |
 |-------| ------------|
-| [Raw Data] | This folder houses a comprehensive collection of Olympics raw data sourced from Kaggle. |
-| [Cleaned Data] | This folder houses a comprehensive collection of Olympics cleaned data. |
-| [Data Ditionary] | This folder houses Olympics data set detailed description. |
+| [Raw Data](https://github.com/DA-Atharv/Olympics_Analysis_Dashboard/tree/main/Raw%20Data) | This folder houses a comprehensive collection of Olympics raw data sourced from Kaggle. |
+| [Cleaned Data](https://github.com/DA-Atharv/Olympics_Analysis_Dashboard/tree/main/Cleaned%20Data) | This folder houses a comprehensive collection of Olympics cleaned data. |
+| [Data Ditionary](https://github.com/DA-Atharv/Olympics_Analysis_Dashboard/tree/main/Data%20Ditionary) | This folder houses Olympics data set detailed description. |
+| [Dashboard Images](https://github.com/DA-Atharv/Olympics_Analysis_Dashboard/tree/main/Dashboard%20Images) | Contains Dashboard images. |
 | [Excel Dashboard File Link] |  |
-| README.md | This is the Readme file of the project. |
+| [README.md](https://github.com/DA-Atharv/Olympics_Analysis_Dashboard/edit/main/README.md) | This is the Readme file of the project. |
 
 # Objective:
 The project aims to leverage Excel's powerful features, such as pivot tables and a variety of charting tools, to conduct a thorough analysis of a comprehensive dataset encompassing 120 years of Olympic history. Through the strategic use of pivot tables, we intend to delve into diverse aspects including demographic trends, country-specific performances, and athlete characteristics. By employing a range of Excel chart types including bar graphs, line charts, and scatter plots, the objective is to visually depict these insights effectively. Additionally, Excel's extensive array of functions will facilitate the calculation of metrics such as medal success rates, athlete demographics, and longitudinal trends. Through the utilization of these Excel tools and functions, the project endeavors to provide detailed and insightful analyses of Olympic participation and performance dynamics.
