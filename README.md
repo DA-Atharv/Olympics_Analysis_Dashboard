@@ -1,4 +1,5 @@
 # Olympics_Analysis_Dashboard
+![image](https://github.com/DA-Atharv/Olympics_Analysis_Dashboard/assets/159448408/ebc403fa-cb03-48b3-9373-df7c04cfccec)
 
 # Data Description:
 The dataset used in this project, titled "120 years of Olympic history: athletes and results," was obtained from Kaggle.
