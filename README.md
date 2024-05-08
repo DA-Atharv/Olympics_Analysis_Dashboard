@@ -1,5 +1,6 @@
 # Olympics_Analysis_Dashboard
 ![image](https://github.com/DA-Atharv/Olympics_Analysis_Dashboard/assets/159448408/ebc403fa-cb03-48b3-9373-df7c04cfccec)
++ Excel File Link: https://docs.google.com/spreadsheets/d/15k74L1s9rXWtwJrsU32Bfo9-561LN0qb/edit?usp=drivesdk&ouid=103214557259220708096&rtpof=true&sd=true
 
 # Data Description:
 The dataset used in this project, titled "120 years of Olympic history: athletes and results," was obtained from Kaggle.
@@ -17,7 +18,7 @@ Attributes include NOC (National Olympic Committee), region (country/place name)
 | [Cleaned Data](https://github.com/DA-Atharv/Olympics_Analysis_Dashboard/tree/main/Cleaned%20Data) | This folder houses a comprehensive collection of Olympics cleaned data. |
 | [Data Ditionary](https://github.com/DA-Atharv/Olympics_Analysis_Dashboard/tree/main/Data%20Ditionary) | This folder houses Olympics data set detailed description. |
 | [Dashboard Images](https://github.com/DA-Atharv/Olympics_Analysis_Dashboard/tree/main/Dashboard%20Images) | Contains Dashboard images. |
-| [Excel Dashboard File Link] |  |
+| [Excel Dashboard File Link] | https://docs.google.com/spreadsheets/d/15k74L1s9rXWtwJrsU32Bfo9-561LN0qb/edit?usp=drivesdk&ouid=103214557259220708096&rtpof=true&sd=true |
 | [README.md](https://github.com/DA-Atharv/Olympics_Analysis_Dashboard/edit/main/README.md) | This is the Readme file of the project. |
 
 # Objective:
