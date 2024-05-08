@@ -1,4 +1,4 @@
-# Olympics_Analysis_Dashboard
+# Olympics_Analysis_Dashboard:
 ![image](https://github.com/DA-Atharv/Olympics_Analysis_Dashboard/assets/159448408/a210c9f4-3d5d-464e-88e0-5b1758bcea3c)
 + Excel File Link: https://docs.google.com/spreadsheets/d/15k74L1s9rXWtwJrsU32Bfo9-561LN0qb/edit?usp=drivesdk&ouid=103214557259220708096&rtpof=true&sd=true
 
@@ -11,7 +11,7 @@ Attributes include ID, name, sex, age, height, weight, team, NOC (National Olymp
 + Noc Country Data (Data Set 2): Provides details about countries and regions participating in the Olympics.
 Attributes include NOC (National Olympic Committee), region (country/place name), and notes.
 
-# Data Dictionary
+# Project Contents:
 | Files | Description |
 |-------| ------------|
 | [Raw Data](https://github.com/DA-Atharv/Olympics_Analysis_Dashboard/tree/main/Raw%20Data) | This folder houses a comprehensive collection of Olympics raw data sourced from Kaggle. |
